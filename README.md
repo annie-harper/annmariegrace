@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<img src="https://github.com/annmariegrace/annmariegrace/blob/main/logo.jpg" alt="female wizard with book" align-left>
+
+- 🔭 I’m currently working on finishing my personal website.
+- 🌱 I’m currently learning JavaScript fundamentals.
+- 💬 My in-progress person website is: https://www.annmariegrape.com/
+- 😄 Pronouns: My pronouns are she/her
+
+
 <!--
 **annmariegrace/annmariegrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
