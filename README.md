@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/annemariegrace/annemariegrace/blob/main/annemariegrace.jpg" alt="female wizard with book" align-left>
+<img src="https://github.com/annmariegrace/annmariegrace/blob/main/logo.jpg" alt="female wizard with book" align-left>
 
 - 🔭 I’m currently working on finishing my personal website.
 - 🌱 I’m currently learning JavaScript fundamentals.
