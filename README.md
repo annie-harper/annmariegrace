@@ -2,10 +2,10 @@
 
 <img src="https://github.com/annmariegrace/annmariegrace/blob/main/logo.jpg" alt="female wizard with book" align-left>
 
-- 🔭 I’m currently working on finishing my personal website.
-- 🌱 I’m currently learning JavaScript fundamentals.
+- 🔭 I’m currently working on creating a card game companion app.
+- 🌱 I’m learning Node.js and React.js, as well as additional JavaScript fundamentals.
 - 💬 My in-progress person website is: https://www.annmariegrape.com/
-- 😄 Pronouns: My pronouns are she/her
+- 😄 Pronouns: she/her
 
 
 <!--
